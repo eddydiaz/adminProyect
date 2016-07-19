@@ -1,2 +1,2 @@
 # adminProyect
-Prueba de  Administración de proecto...!!! Trabajando en equipo...!!!
+...!!! Trabajando en equipo...!!!
